@@ -1,4 +1,4 @@
-# Scope Lab
+w# Scope Lab
 
 ## Learning Goals
 
